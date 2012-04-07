@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/keyboard"
+        android:title="Keyboard" />
+    <item android:id="@+id/parameters"
+          android:title="Parameters"
+          android:icon="@android:drawable/ic_menu_preferences" />
+</menu>
