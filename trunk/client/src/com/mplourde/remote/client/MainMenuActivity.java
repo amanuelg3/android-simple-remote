@@ -119,7 +119,6 @@ public class MainMenuActivity extends Activity {
 
 		} catch (IOException e) {
 		    Toast.makeText(getApplicationContext(),
-			    e.getMessage()+
 			    "Failed to connect to the server",
 			    Toast.LENGTH_SHORT).show();
 		}
